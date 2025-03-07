@@ -16081,3 +16081,9 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [07Mar2025 20:10:05.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Mar2025 20:12:00.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [07Mar2025 20:12:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: whitelist<--[HERE]
+[07Mar2025 20:15:05.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 20:15:05.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 20:17:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Mar2025 20:17:00.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ñ<--[HERE]
+[07Mar2025 20:20:05.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 20:20:05.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

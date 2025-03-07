@@ -4227,3 +4227,5 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [07Mar2025 20:05:05.293] [Server thread/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Registered 22 jsons with items!
 [07Mar2025 20:12:00.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [07Mar2025 20:12:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: whitelist<--[HERE]
+[07Mar2025 20:17:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Mar2025 20:17:00.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ñ<--[HERE]
